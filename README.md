@@ -6,6 +6,12 @@
 
 ## Screenshots
 
+![1](https://github.com/codefromrvk/Nextjs-mui/blob/main/public/images/1.png?raw=true)
+![2](https://github.com/codefromrvk/Nextjs-mui/blob/main/public/images/2.png?raw=true)
+![3](https://github.com/codefromrvk/Nextjs-mui/blob/main/public/images/3.png?raw=true)
+![4](https://github.com/codefromrvk/Nextjs-mui/blob/main/public/images/4.png?raw=true)
+![5](https://github.com/codefromrvk/Nextjs-mui/blob/main/public/images/5.png?raw=true)
+
 
 
 ## How to use
