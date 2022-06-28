@@ -15,7 +15,7 @@ import FavoriteBorderOutlinedIcon from "@mui/icons-material/FavoriteBorderOutlin
 
 export default function Benefit() {
   return (
-    <Grid container className="benefit" direction="column-reverse">
+    <Grid container className="benefit" >
       <Grid item xs={12} sm={6} lg={6} pl={2}>
         <Grid
           container
